@@ -10,7 +10,7 @@
 1) k sayısı kadar rastgele veri seçilip küme merkezleri olarak atanır.
 <br>2)Veriler rastgele k tane kümeye atanır ve küme ortalamaları alınarak başlangıç küme merkezleri belirlenir.
 <br>3)En uç değerlere sahip veriler küme merkezleri olarak seçilir.
-4)Veri setinin merkezine en yakın noktalar başlangıç noktaları olarak seçilir.
+<br>4)Veri setinin merkezine en yakın noktalar başlangıç noktaları olarak seçilir.
 
 <img src="Iteration.jpg" title="kmeans kümeleme adimlari">
 
