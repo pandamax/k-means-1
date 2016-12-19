@@ -3,7 +3,7 @@
 
 - Verileri belirlenen küme sayısına göre, her küme için belirlenen ortalama değer doğrultusunda kümelenmesi üzerine çalışılır. K-Means algoritması eldeki verileri k adet kümede ve kümelerin ortalamalarına göre kümelere ayırır. K küme sayısı kullanıcı tarafından verilir.
 
-- Kısaca <b>n tane nesneyi -küme içi benzerlik maksimum, kümeler arası benzerlik minimum olacak şekilde- k tane kümeye böler.
+- Kısaca <b>n tane nesneyi -küme içi benzerlik maksimum, kümeler arası benzerlik minimum olacak şekilde- k tane kümeye böler.</b>
 
 - Başlangıç küme merkezlerinin seçimi k-means'in sonucunu önemli oranda etkiler. Başlangıç noktalarının belirlenmesinde çeşitli teknikler vardır. Bu tekniklerden bazıları :
 
